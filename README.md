@@ -20,7 +20,6 @@ A collection of real-world data analysis and visualization projects developed us
   - Region with highest revenue in 2015 (East)
 - **Tool**: Power BI Desktop
 
- [Project Report](DATA_Analysis.pdf)
 
 
 ### 2. Power BI - Sales Performance Analysis (Supervisors and Employees)
@@ -34,9 +33,7 @@ A collection of real-world data analysis and visualization projects developed us
   - Product with highest revenue in January 2019
 - **Tool**: Power BI Desktop
 
- [Project Report](Power_BI_Data_Analysis.pdf)
 
----
 
 ### 3. Tableau Prep Builder - Data Preparation and Cleaning
 - **Objective**: Prepare Superstore orders dataset for further Tableau visualization.
@@ -49,9 +46,7 @@ A collection of real-world data analysis and visualization projects developed us
   - Final Flow Diagram creation
 - **Outcome**: A clean, unified dataset ready for dashboard visualization.
 
-[Data Prep Report](Tableau_Prep_Builder_Data_Prep.pdf)
 
----
 
 ### 4. Tableau Desktop - Sales and Customer Analysis Dashboard
 - **Objective**: Develop interactive dashboards and storytelling with sales and customer data.
@@ -64,9 +59,6 @@ A collection of real-world data analysis and visualization projects developed us
   - Sales Dashboard and Storytelling views
 - **Tool**: Tableau Desktop
 
- [Dashboard Report](Tableau_Sales_Customer_Data_Analysis.pdf)
-
----
 
 ##  Tech Stack
 **Power BI Desktop**
