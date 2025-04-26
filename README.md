@@ -1,4 +1,4 @@
-#  Data Visualization Projects (Power BI and Tableau)
+  #  Data Visualization Projects (Power BI and Tableau)
 
 A collection of real-world data analysis and visualization projects developed using **Power BI**, **Tableau Desktop**, and **Tableau Prep Builder**.
 
@@ -21,6 +21,7 @@ A collection of real-world data analysis and visualization projects developed us
 - **Tool**: Power BI Desktop
 
 
+📄 [Project Report](DATA_Analysis.pdf)
 
 ### 2. Power BI - Sales Performance Analysis (Supervisors and Employees)
 - **Objective**: Analyze supervisor and employee performance across different months in 2019.
@@ -35,6 +36,9 @@ A collection of real-world data analysis and visualization projects developed us
 
 
 
+📄 [Project Report](Power_BI_Data_Analysis.pdf)
+
+
 ### 3. Tableau Prep Builder - Data Preparation and Cleaning
 - **Objective**: Prepare Superstore orders dataset for further Tableau visualization.
 - **Key Steps**:
@@ -47,6 +51,7 @@ A collection of real-world data analysis and visualization projects developed us
 - **Outcome**: A clean, unified dataset ready for dashboard visualization.
 
 
+📄 [Data Prep Report](Tableau_Prep_Builder_Data_Prep.pdf)
 
 ### 4. Tableau Desktop - Sales and Customer Analysis Dashboard
 - **Objective**: Develop interactive dashboards and storytelling with sales and customer data.
@@ -58,6 +63,8 @@ A collection of real-world data analysis and visualization projects developed us
   - Customer Breakdown Reports
   - Sales Dashboard and Storytelling views
 - **Tool**: Tableau Desktop
+
+📄 [Dashboard Report](Tableau_Sales_Customer_Data_Analysis.pdf)
 
 
 ##  Tech Stack
